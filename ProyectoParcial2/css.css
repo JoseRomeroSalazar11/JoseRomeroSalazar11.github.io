@@ -22,4 +22,7 @@ img{
 	background-image: cover;
 	position: absolute;
 }
+ btn-primary btn-lg{
+ 	background-color: white;
+ }
 
